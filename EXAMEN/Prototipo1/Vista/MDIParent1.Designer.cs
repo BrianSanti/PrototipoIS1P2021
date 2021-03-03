@@ -436,14 +436,14 @@
             // empleadosToolStripMenuItem
             // 
             this.empleadosToolStripMenuItem.Name = "empleadosToolStripMenuItem";
-            this.empleadosToolStripMenuItem.Size = new System.Drawing.Size(166, 26);
-            this.empleadosToolStripMenuItem.Text = "Empleados";
+            this.empleadosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.empleadosToolStripMenuItem.Text = "Puestos";
             this.empleadosToolStripMenuItem.Click += new System.EventHandler(this.empleadosToolStripMenuItem_Click);
             // 
             // polizasToolStripMenuItem
             // 
             this.polizasToolStripMenuItem.Name = "polizasToolStripMenuItem";
-            this.polizasToolStripMenuItem.Size = new System.Drawing.Size(166, 26);
+            this.polizasToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.polizasToolStripMenuItem.Text = "Polizas";
             this.polizasToolStripMenuItem.Click += new System.EventHandler(this.polizasToolStripMenuItem_Click);
             // 
