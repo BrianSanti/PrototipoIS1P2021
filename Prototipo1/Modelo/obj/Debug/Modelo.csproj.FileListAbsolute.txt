@@ -1,0 +1,12 @@
+C:\Users\Brian\source\repos\Prototipo1\Modelo\bin\Debug\Modelo.dll
+C:\Users\Brian\source\repos\Prototipo1\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Brian\source\repos\Prototipo1\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Prototipo1\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Prototipo1\Modelo\obj\Debug\Modelo.dll
+C:\Users\Brian\source\repos\Prototipo1\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Brian\Desktop\EXAMEN\Prototipo1\Modelo\bin\Debug\Modelo.dll
+C:\Users\Brian\Desktop\EXAMEN\Prototipo1\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Brian\Desktop\EXAMEN\Prototipo1\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\EXAMEN\Prototipo1\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\EXAMEN\Prototipo1\Modelo\obj\Debug\Modelo.dll
+C:\Users\Brian\Desktop\EXAMEN\Prototipo1\Modelo\obj\Debug\Modelo.pdb
